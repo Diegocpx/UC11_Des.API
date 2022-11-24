@@ -2128,11 +2128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\ChapterBet9\\ChapterBet9\\ChapterBet9.csproj",
+      "projectUniqueName": "E:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\TRABALHOSUC11\\ChapterBet9\\ChapterBet9\\ChapterBet9.csproj",
       "projectName": "ChapterBet9",
-      "projectPath": "E:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\ChapterBet9\\ChapterBet9\\ChapterBet9.csproj",
+      "projectPath": "E:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\TRABALHOSUC11\\ChapterBet9\\ChapterBet9\\ChapterBet9.csproj",
       "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "E:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\ChapterBet9\\ChapterBet9\\obj\\",
+      "outputPath": "E:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\TRABALHOSUC11\\ChapterBet9\\ChapterBet9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",

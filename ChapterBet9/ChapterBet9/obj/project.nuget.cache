@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yWbexc75AQG9RIqb0wfQDV9+czUlEhrSovJVfQE9+NohKA2WwUPwK9hTjx5gGcQ+CKrWMsv1EkHRFxVeZm+P5w==",
+  "dgSpecHash": "2133U6OvlKdxp8mSWeU9+MjTmvMZnkDDd/LDIoX8Z2K15kFj7SNArGF1ZHcbIs4XzjwAZpIm8krS18mVswwx0w==",
   "success": true,
-  "projectFilePath": "E:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\ChapterBet9\\ChapterBet9\\ChapterBet9.csproj",
+  "projectFilePath": "E:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\TRABALHOSUC11\\ChapterBet9\\ChapterBet9\\ChapterBet9.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

@@ -26,24 +26,33 @@ namespace ChapterBet9.Repositories
             return _context.Livros.Find(id);
         }
 
-        public void Cadastrar(Livro Livro)
+        public void Cadastrar(Livro livro)
         {
-            _context.Livros.Add(Livro);
+            _context.Livros.Add(livro);
 
             _context.SaveChanges();
         }
 
         public void Atualizar(int id, Livro livro)
         {
-            Livro LivroBuscado = _context.Livros.Find(id);
+            Livro livroBuscado = _context.Livros.Find(id);
 
-            if (LivroBuscado != null)
+            if (livroBuscado != null)
             {
-                LivroBuscado.Titulo = livro.Titulo;
-                LivroBuscado.QuantidadedePaginas = livro.QuantidadedePaginas;
-                LivroBuscado.Disponivel = livro.Disponivel;
+                livroBuscado.Titulo = livro.Titulo;
+                livroBuscado.QuantidadePaginas = livro.QuantidadePaginas;
+                livroBuscado.Disponivel = livro.Disponivel;
             }
-            Return Ok(Livro);
+            _context.Livros.Update(livroBuscado);
+            _context.SaveChanges();
+        }
+
+        public void Deletar(int id)
+        {
+            Livro livrobuscado = _context.Livros.Find(id);
+
+            _context.Livros.Remove(livrobuscado);
+            _context.SaveChanges();
         }
     }
 }
