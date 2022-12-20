@@ -496,7 +496,7 @@
           "build/Swashbuckle.AspNetCore.props": {}
         }
       },
-      "Swashbuckle.AspNetCore.Swagger/6.2.3": {
+      "Swashbuckle.AspNetCore.Swagger/6.4.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.OpenApi": "1.2.3"
@@ -1562,10 +1562,10 @@
         "swashbuckle.aspnetcore.nuspec"
       ]
     },
-    "Swashbuckle.AspNetCore.Swagger/6.2.3": {
-      "sha512": "qOF7j1sL0bWm8g/qqHVPCvkO3JlVvUIB8WfC98kSh6BT5y5DAnBNctfac7XR5EZf+eD7/WasvANncTqwZYfmWQ==",
+    "Swashbuckle.AspNetCore.Swagger/6.4.0": {
+      "sha512": "nl4SBgGM+cmthUcpwO/w1lUjevdDHAqRvfUoe4Xp/Uvuzt9mzGUwyFCqa3ODBAcZYBiFoKvrYwz0rabslJvSmQ==",
       "type": "package",
-      "path": "swashbuckle.aspnetcore.swagger/6.2.3",
+      "path": "swashbuckle.aspnetcore.swagger/6.4.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1581,7 +1581,7 @@
         "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.dll",
         "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.pdb",
         "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.xml",
-        "swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+        "swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swagger.nuspec"
       ]
     },
@@ -2119,7 +2119,8 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.10",
-      "Swashbuckle.AspNetCore >= 6.2.3"
+      "Swashbuckle.AspNetCore >= 6.2.3",
+      "Swashbuckle.AspNetCore.Swagger >= 6.4.0"
     ]
   },
   "packageFolders": {
@@ -2128,11 +2129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\TRABALHOSUC11\\ChapterBet9\\ChapterBet9\\ChapterBet9.csproj",
+      "projectUniqueName": "D:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\TRABALHOSUC11\\ChapterBet9\\ChapterBet9\\ChapterBet9.csproj",
       "projectName": "ChapterBet9",
-      "projectPath": "E:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\TRABALHOSUC11\\ChapterBet9\\ChapterBet9\\ChapterBet9.csproj",
+      "projectPath": "D:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\TRABALHOSUC11\\ChapterBet9\\ChapterBet9\\ChapterBet9.csproj",
       "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "E:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\TRABALHOSUC11\\ChapterBet9\\ChapterBet9\\obj\\",
+      "outputPath": "D:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\TRABALHOSUC11\\ChapterBet9\\ChapterBet9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2168,6 +2169,10 @@
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.2.3, )"
+          },
+          "Swashbuckle.AspNetCore.Swagger": {
+            "target": "Package",
+            "version": "[6.4.0, )"
           }
         },
         "imports": [
@@ -2189,7 +2194,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

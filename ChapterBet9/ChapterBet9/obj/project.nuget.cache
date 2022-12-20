@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2133U6OvlKdxp8mSWeU9+MjTmvMZnkDDd/LDIoX8Z2K15kFj7SNArGF1ZHcbIs4XzjwAZpIm8krS18mVswwx0w==",
+  "dgSpecHash": "xaCoJiatwKT41tZXoZkQwGNPzJLAgEP0CfYlkh7Uc9aZaZJoVTsbjYtLCcMD4msg+LidrJ+eK5mW+1H+rRuIsQ==",
   "success": true,
-  "projectFilePath": "E:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\TRABALHOSUC11\\ChapterBet9\\ChapterBet9\\ChapterBet9.csproj",
+  "projectFilePath": "D:\\#SENAI - PROGRAMADOR BACK-END\\11 - desenvolvimento de APIs\\TRABALHOSUC11\\ChapterBet9\\ChapterBet9\\ChapterBet9.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
@@ -33,7 +33,7 @@
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
