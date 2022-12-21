@@ -1,5 +1,6 @@
 ﻿using ChapterBet9.Models;
 using ChapterBet9.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,6 +9,7 @@ namespace ChapterBet9.Controllers
     [Produces("application/json")]
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize(Roles = "1")]
     public class LivrosController : ControllerBase
     {
         private readonly LivroRepository livroRepository;

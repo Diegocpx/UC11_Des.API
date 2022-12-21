@@ -1,6 +1,7 @@
 using ChapterBet9.Contexts;
 using ChapterBet9.Interfaces;
 using ChapterBet9.Repositories;
+using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +17,25 @@ builder.Services.AddCors(options =>
             .AllowAnyHeader() 
             .AllowAnyMethod();
         });
+});
+
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultChallengeScheme = "JwtChapter";
+    options.DefaultAuthenticateScheme = "JwtChapter";
+}).AddJwtBearer("JwtChapter", options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateAudience = true, 
+        ValidateIssuer = true,
+        ValidateLifetime = true,
+        IssuerSigningKey = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("chave-chapter-autenticacao")),
+        ClockSkew = TimeSpan.FromMinutes(60),
+        ValidIssuer = "chapter.webapi",
+        ValidAudience = "chapter.webapi"
+    
+    };
 });
 
 builder.Services.AddScoped<SqlContext, SqlContext>();
@@ -40,6 +60,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseCors("CorsPolicy");
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 
