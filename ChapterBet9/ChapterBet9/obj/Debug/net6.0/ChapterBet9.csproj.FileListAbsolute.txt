@@ -58,3 +58,13 @@ E:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\ChapterBet9\Chapte
 E:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\ChapterBet9\ChapterBet9\obj\Debug\net6.0\ChapterBet9.pdb
 E:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\ChapterBet9\ChapterBet9\obj\Debug\net6.0\ChapterBet9.genruntimeconfig.cache
 E:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\ChapterBet9\ChapterBet9\obj\Debug\net6.0\ref\ChapterBet9.dll
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ChapterBet9\ChapterBet9\obj\Debug\net6.0\ChapterBet9.csproj.AssemblyReference.cache
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ChapterBet9\ChapterBet9\obj\Debug\net6.0\ChapterBet9.GeneratedMSBuildEditorConfig.editorconfig
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ChapterBet9\ChapterBet9\obj\Debug\net6.0\ChapterBet9.AssemblyInfoInputs.cache
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ChapterBet9\ChapterBet9\obj\Debug\net6.0\ChapterBet9.AssemblyInfo.cs
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ChapterBet9\ChapterBet9\obj\Debug\net6.0\ChapterBet9.csproj.CoreCompileInputs.cache
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ChapterBet9\ChapterBet9\obj\Debug\net6.0\ChapterBet9.MvcApplicationPartsAssemblyInfo.cs
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ChapterBet9\ChapterBet9\obj\Debug\net6.0\ChapterBet9.MvcApplicationPartsAssemblyInfo.cache
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ChapterBet9\ChapterBet9\obj\Debug\net6.0\ChapterBet9.dll
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ChapterBet9\ChapterBet9\obj\Debug\net6.0\refint\ChapterBet9.dll
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ChapterBet9\ChapterBet9\obj\Debug\net6.0\ChapterBet9.pdb

@@ -1,0 +1,7 @@
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.csproj.AssemblyReference.cache
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.AssemblyInfoInputs.cache
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.AssemblyInfo.cs
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.csproj.CoreCompileInputs.cache
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\#SENAI - PROGRAMADOR BACK-END\11 - desenvolvimento de APIs\TRABALHOSUC11\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.MvcApplicationPartsAssemblyInfo.cache
